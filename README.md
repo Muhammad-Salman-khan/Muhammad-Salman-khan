@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Salman%20Khan&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20-nl-%20Next.js%20and%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=Salman%20Khan&fontColor=ffffff&fontSize=50&fontAlignY=25&desc=Full-Stack%20Developer%20-nl-%20React%20and%20Next.js%20-nl-%20Exploring%20AI-Powered%20Web%20Experiences%20-nl-%20MERN%20Stack%20-nl-%20tsx&descAlignY=60&descSize=16" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%2B+TypeScript;Shipping+real+production+apps;SQL+%7C+REST+APIs+%7C+Auth+%7C+CI%2FCD;Currently%3A+MKTSR+%E2%80%94+live+e-commerce+platform" alt="Typing SVG" />
 
 </div>
