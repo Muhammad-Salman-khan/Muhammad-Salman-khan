@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=Salman%20Khan&fontColor=ffffff&fontSize=50&fontAlignY=25&desc=Full-Stack%20Developer%20-nl-%20React%20and%20Next.js%20-nl-%20Exploring%20AI-Powered%20Web%20Experiences%20-nl-%20MERN%20Stack%20-nl-%20tsx&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=Salman%20Khan&fontColor=ffffff&fontSize=50&fontAlignY=25&desc=Full-Stack%20Developer%20-nl-%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript%20-nl-%20MERN%20Stack%20-nl-%20Exploring%20AI-Powered%20Web%20Experiences&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%2B+TypeScript;Shipping+real+production+apps;SQL+%7C+REST+APIs+%7C+Auth+%7C+CI%2FCD;Currently%3A+MKTSR+%E2%80%94+live+e-commerce+platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%2B+TypeScript;Shipping+real+production+apps;SQL+%7C+REST+APIs+%7C+Auth+%7C+CI%2FCD;Currently%3A+MKTSR+%E2%80%94+live+e-commerce+platform" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Salman-khan&color=000000&style=flat" alt="Profile views" />
 
 </div>
 
@@ -106,7 +108,7 @@
 ### 🛍️ MKTSR — Fashion E-Commerce Platform
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Cloudinary` `Zustand` `PayFast` `Resend`
 
-Live fashion e-commerce store shipped and serving real customers.
+🌐 Live: [mktsr.co](https://mktsr.co) — shipped and serving real customers.
 
 - Built a full admin dashboard — product CRUD, order tracking, and SQL-based stock updates via a PostgreSQL RPC function
 - Integrated PayFast checkout and Resend transactional emails, full order flow from cart to confirmation
@@ -194,6 +196,7 @@ Live fashion e-commerce store shipped and serving real customers.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Salman-khan&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&count_private=true" width="49%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Salman-khan&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=ffffff" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Salman-khan&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" width="49%">
 </div>
 
 <br>
